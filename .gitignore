@@ -1,0 +1,6 @@
+.ipython/*
+.jupyter/*
+.local/*
+.npm/*
+**.ipynb_checkpoints**
+**/.ipynb_checkpoints/**
